@@ -1,10 +1,10 @@
 # Note-Taker
 ## Description
-Note Taker Application Using Express.js Back End
+Note Taker Application Using Express.js and MongoDB Back End
 
 ## Deployed Website
 [Deployed Version Here]()
-![Website Screenshot]()
+![Website Screenshot](public/assets/img/note-taker-ss.png)
 
 ## Table of Contents
 - [Description](#description)
@@ -18,10 +18,9 @@ Note Taker Application Using Express.js Back End
 ## Usage
 
 
-
 ## Installation
 1. Clone Repository
-2. Run 'npm i' In Terminal
+2. Install Dependencies
 
 ## Tests
 N/A
